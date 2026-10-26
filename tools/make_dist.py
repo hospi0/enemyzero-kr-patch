@@ -11,7 +11,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 
 VER = 'v0.9'
 XDELTA = r'C:\claude\utils\xdelta.exe'
-SRC = r'C:\claude\roms\ss'
+SRC = r'D:\hospi\My Documents\한글패치\SS\ss'
 sys.path.insert(0, HERE)
 import disc
 OUT = os.path.join(ROOT, 'dist', 'build')

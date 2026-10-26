@@ -8,7 +8,7 @@ NAMES = {0: 'Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore)', 1: 'Enemy Z
          2: 'Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore)', 3: 'Enemy Zero (Japan) (Disc 3) (Game Disc) (Satakore)'}
 
 
-def bin_path(n): return os.path.join(r'C:\claude\roms\ss', NAMES[n], NAMES[n] + ' (Track 1).bin')
+def bin_path(n): return os.path.join(r'D:\hospi\My Documents\한글패치\SS\ss', NAMES[n], NAMES[n] + ' (Track 1).bin')
 
 
 def sec(f, l, n=1):
